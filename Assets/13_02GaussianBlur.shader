@@ -15,6 +15,9 @@ SubShader
 Tags{ "RenderPipeline" = "UniversalPipeline" }
 // 次ページへ
 // 前ページから
+
+
+
 Pass
 {
 HLSLPROGRAM
